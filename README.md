@@ -4,12 +4,21 @@ Construyo soluciones digitales, aprendo en público y convierto ideas en proyect
 
 ## Sobre mí
 
+- 🔗 He trabajado con **Oracle JD Edwards EnterpriseOne**, integrando aplicaciones PHP con información de mantenimiento y órdenes de trabajo.
 - 🚀 Me interesa crear proyectos útiles y fáciles de entender.
 - 🌱 Actualmente sigo ampliando mis conocimientos en desarrollo y tecnología.
 - 🧩 Disfruto documentar lo que aprendo y convertirlo en soluciones prácticas.
 - 🤝 Abierto a aprender, colaborar y mejorar continuamente.
 
 ## Proyectos destacados
+
+### 🛠️ [Calendario de Mantenimiento con JD Edwards](https://github.com/danielaguilar10/calendario-mantenimiento-jd-edwards)
+
+Calendario web en PHP conectado mediante una integración de solo lectura con Oracle JD Edwards EnterpriseOne.
+
+- Consulta de activos, planes de mantenimiento y órdenes de trabajo.
+- Conversión de fechas julianas CYYDDD y exposición mediante una API JSON.
+- Versión pública con datos ficticios, configuración segura y documentación técnica.
 
 ### ⏱️ [Control de Asistencia PHP](https://github.com/danielaguilar10/control-de-asistencia-php)
 
