@@ -4,13 +4,21 @@ Construyo soluciones digitales, aprendo en público y convierto ideas en proyect
 
 ## Sobre mí
 
-- 🔗 He trabajado con **Oracle JD Edwards EnterpriseOne**, integrando aplicaciones PHP con información de mantenimiento y órdenes de trabajo.
+- 🔗 He trabajado con **Oracle JD Edwards EnterpriseOne**, integrando aplicaciones PHP para mantenimiento, órdenes de trabajo, catálogos de artículos e inventario.
 - 🚀 Me interesa crear proyectos útiles y fáciles de entender.
 - 🌱 Actualmente sigo ampliando mis conocimientos en desarrollo y tecnología.
 - 🧩 Disfruto documentar lo que aprendo y convertirlo en soluciones prácticas.
 - 🤝 Abierto a aprender, colaborar y mejorar continuamente.
 
 ## Proyectos destacados
+
+### 📦 [Inventario y Trazabilidad con JD Edwards](https://github.com/danielaguilar10/inventario-trazabilidad-jd-edwards)
+
+Sistema web en PHP con catálogo maestro integrado desde Oracle JD Edwards EnterpriseOne en modo de solo lectura.
+
+- Dashboard de existencias, alertas de stock y filtros.
+- Simulación de entradas y salidas con trazabilidad.
+- Generación de códigos de barras CODE128 y documentación de seguridad.
 
 ### 🛠️ [Calendario de Mantenimiento con JD Edwards](https://github.com/danielaguilar10/calendario-mantenimiento-jd-edwards)
 
