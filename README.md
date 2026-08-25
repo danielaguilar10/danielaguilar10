@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Daniel Aguilar 👋
 
-<!--
-**danielaguilar10/danielaguilar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construyo soluciones digitales, aprendo en público y convierto ideas en proyectos.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Me interesa crear proyectos útiles y fáciles de entender.
+- 🌱 Actualmente sigo ampliando mis conocimientos en desarrollo y tecnología.
+- 🧩 Disfruto documentar lo que aprendo y convertirlo en soluciones prácticas.
+- 🤝 Abierto a aprender, colaborar y mejorar continuamente.
+
+## Proyectos destacados
+
+### 📚 [documentos](https://github.com/danielaguilar10/documentos)
+
+Repositorio personal donde organizo documentos, recursos y aprendizajes.
+
+## En este perfil encontrarás
+
+- Proyectos personales y experimentos
+- Documentación de lo que voy aprendiendo
+- Mejoras continuas a mis repositorios
+
+---
+
+> Cada proyecto es una oportunidad para aprender algo nuevo.
