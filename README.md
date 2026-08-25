@@ -11,6 +11,14 @@ Construyo soluciones digitales, aprendo en público y convierto ideas en proyect
 
 ## Proyectos destacados
 
+### ⏱️ [Control de Asistencia PHP](https://github.com/danielaguilar10/control-de-asistencia-php)
+
+Sistema web en PHP y MariaDB para registrar asistencia, gestionar usuarios y permisos, consultar reportes y visualizar actividades en mapas.
+
+- Incluye esquema de base de datos sin información real.
+- Cuenta con manual de usuario, instalación, arquitectura y guía de seguridad.
+- Publicado como una edición de portafolio sin credenciales ni datos privados.
+
 ### 📚 [documentos](https://github.com/danielaguilar10/documentos)
 
 Repositorio personal donde organizo documentos, recursos y aprendizajes.
