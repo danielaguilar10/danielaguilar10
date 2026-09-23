@@ -28,6 +28,10 @@ Calendario web en PHP conectado mediante una integración de solo lectura con Or
 - Conversión de fechas julianas CYYDDD y exposición mediante una API JSON.
 - Versión pública con datos ficticios, configuración segura y documentación técnica.
 
+La planificación reúne planes y órdenes de JD Edwards en un calendario. El adaptador de ejemplo consulta F1207 (planes), F1201 (activos) y F4801 (órdenes) mediante Oracle con acceso de solo lectura. SSH sirve para administrar y diagnosticar el servidor con acceso controlado; la conexión de datos de la aplicación se realiza por Oracle.
+
+![Vista de demostración del calendario de mantenimiento con datos ficticios](https://raw.githubusercontent.com/danielaguilar10/calendario-mantenimiento-jd-edwards/main/assets/calendario-demo.png)
+
 ### ⏱️ [Control de Asistencia PHP](https://github.com/danielaguilar10/control-de-asistencia-php)
 
 Sistema web en PHP y MariaDB para registrar asistencia, gestionar usuarios y permisos, consultar reportes y visualizar actividades en mapas.
